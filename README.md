@@ -1,8 +1,7 @@
-# IPL First Innings Score and Winner Prediction - Deployment
+# IPL Inning Score and Winner Prediction - Deployment
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-• A glimpse of the web app:
-
+A glimpse of the web app:
  ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
 
 ## Table of Content
@@ -47,7 +46,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ## Directory Tree 
 ```
 ├── static 
-│   ├── a.png
+    ├── a.png
     ├──csk.png
     ├──dc.png
     ├──rcb.png
@@ -59,13 +58,13 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
     ├──background.png
     ├──ipl-favicon.ico
 ├── template
-│   ├── index.html
+    ├── index.html
     ├── predict_score.html
     ├── score.html
     ├── predict_winner.html
     ├── winner.html
 ├── readme_resources
-│   ├── ipl-first-innings-score-web-app.gif
+    ├── ipl-first-innings-score-web-app.gif
     ├── application-error-heroku.png
 ├── README.md
 ├── app.py
@@ -99,4 +98,4 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 * Optimize Flask app.py
 * Front-End 
 
-### Please do ⭐ the repository, if it helped you in anyway.
+#### Please do ⭐ the repository, if it helped you in anyway.
