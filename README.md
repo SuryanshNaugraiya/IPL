@@ -17,7 +17,7 @@
   * [Future scope of project](#future-scope)
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://ipl-prediciton-1.herokuapp.com/](https://ipl-prediciton-1.herokuapp.com/)
 
 ## Overview
 This is a Flask web app and it has 2 functionalities.
