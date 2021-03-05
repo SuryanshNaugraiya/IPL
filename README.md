@@ -4,7 +4,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-yellow)
 
 #### A glimpse of the web app:
- ![GIF](readme_resources/screen-capture.gif)
+ ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
 
 ## Table of Content
   * [Demo](#demo)
