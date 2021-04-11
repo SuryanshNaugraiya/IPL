@@ -4,7 +4,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-yellow)
 
 #### A glimpse of the web app:
- ![GIF](readme_resources/WhatsApp Video 2021-04-12 at 12.33.49 AM)
+ ![GIF](readme_resources/j.gif)
 
 ## Table of Content
   * [Demo](#demo)
